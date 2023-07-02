@@ -1,4 +1,4 @@
-# Takim ismi
+# Takım ismi
 
 Flutter Anka (F*146)
 
@@ -7,8 +7,11 @@ Flutter Anka (F*146)
 ## Takım Elemanları
 
 Zehra Demırtaş: Scrum Master
+
 Melike Tunç: Product Owner
+
 Dursun Kurt: Developer
+
 Burak Cerşit: Developer
 
 ## Ürün İsmi
@@ -22,12 +25,15 @@ Bu Uygulana ile, Flutter kullanarak geliştirdiğimiz basit bir hesap makinesi u
 ## Ürün Özellikleri
 
 -Toplama, çıkarma, çarpma ve bölme gibi dört temel işlemi gerçekleştirme yeteneği
+
 -Rakamlar, nokta ve işlem operatörleri için basit bir kullanıcı arayüzü
+
 -İşlem geçmişi görüntüleme özelliği
 
 ## Hedef Kitle
 
 - 15 - 65 yaş arası kullanıcılar
+- Öğrenciler
 
 ## Product Backlog URL
 
