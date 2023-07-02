@@ -39,7 +39,7 @@ Bu Uygulana ile, Flutter kullanarak geliştirdiğimiz basit bir hesap makinesi u
 
 [Miro Backlog Board](https://miro.com/)
 
-# Sprint 1 - Yeniden Planlama
+# Sprint 2 - Yeniden Planlama
 
 ## Özet
 
@@ -78,13 +78,8 @@ Yeni proje için önceliklerimizi ve hedeflerimizi belirlemek için bir beyin f�
 **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](./web/Screenshot%202023-07-02%20104051.jpg) 
 
-# Sprint 2
-
-
----
-
 # Sprint 3
 
----
 
+---
 
