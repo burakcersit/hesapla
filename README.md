@@ -65,6 +65,12 @@ Yeni proje için önceliklerimizi ve hedeflerimizi belirlemek için bir beyin f�
 
 **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir
 
+![Daily Scrum](./web/wp1.jpeg) 
+![Daily Scrum](./web/wp2.jpeg) 
+![Daily Scrum](./web/wp3.jpeg) 
+
+
+
 **Sprint board update**: Sprint board Ulaşım linki: 
 [JIRA](https://burakcersit.atlassian.net/jira/core/projects/HES/board?atlOrigin=eyJpIjoiMGMxYTIyM2Y4NTU1NDNhZGFkY2RjZjYzYjdlMDlkYTkiLCJwIjoiaiJ9)
 
@@ -77,6 +83,10 @@ Yeni proje için önceliklerimizi ve hedeflerimizi belirlemek için bir beyin f�
 
 **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](./web/Screenshot%202023-07-02%20104051.jpg) 
+
+## Screenshoot
+![Daily Scrum](./web/app.jpeg) 
+
 
 # Sprint 3
 
