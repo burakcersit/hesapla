@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\burak\OneDrive\Desktop\Hesapla\hesapla\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+    <ClCompile Include="C:\Users\Melik\hesapla\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\burak\OneDrive\Desktop\Hesapla\hesapla\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+    <ClCompile Include="C:\Users\Melik\hesapla\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\burak\OneDrive\Desktop\Hesapla\hesapla\windows\flutter\ephemeral\cpp_client_wrapper\plugin_registrar.cc">
+    <ClCompile Include="C:\Users\Melik\hesapla\windows\flutter\ephemeral\cpp_client_wrapper\plugin_registrar.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\burak\OneDrive\Desktop\Hesapla\hesapla\windows\flutter\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\Melik\hesapla\windows\flutter\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{D5BC9084-98C1-3ADC-9F05-0323578C8F13}</UniqueIdentifier>
+      <UniqueIdentifier>{1FB804CA-2A08-3E43-8890-67F100661B10}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{BFF3EF9B-DEE5-3EC0-9E27-F713C8FD0A87}</UniqueIdentifier>
+      <UniqueIdentifier>{9FA927BC-22CA-316A-A777-723DFF0ACA4E}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

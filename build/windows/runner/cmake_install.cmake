@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/burak/OneDrive/Desktop/Hesapla/hesapla/windows/runner
+# Install script for directory: C:/Users/Melik/hesapla/windows/runner
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
