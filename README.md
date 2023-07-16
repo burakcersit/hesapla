@@ -110,11 +110,7 @@ Proje için önceliklerimizi ve hedeflerimizi belirlemek için bir beyin fırtı
 
 **Backlog düzeni**: JIRA software management applıcation üzerınden görevler belirlenir ve sorumlulara atanır. Takibi ve kontrolü JIRA üzerınden yapılır.
 **Daily Scrum**:
-![Daily Scrum](blob:https://web.whatsapp.com/c38fbd88-4d4a-4859-be3f-5286878273e8)
-![Daily Scrum](blob:https://web.whatsapp.com/104f0584-7460-40b1-bb29-73bd27baa3e1)
-![Daily Scrum](blob:https://web.whatsapp.com/104f0584-7460-40b1-bb29-73bd27baa3e1)
-![Daily Scrum](blob:https://web.whatsapp.com/77192a24-b02d-40c9-bf5d-b8f954d1acb3)
-![Daily Scrum](blob:https://web.whatsapp.com/ef87b116-ba62-4305-bf89-d668c3dba5f4)
+
 ---
 **Sprint Review:** Uygulamanın yazı fontları ve renk yelpazesi düzenlendi, ürün videosu çekildi ve düzenlendi, github reposu ve Backlog Board ile ilgili gerekli düzenlemeler gerçeleştirildi. Uygulamanın son düzenlemeleri yapıldı ve ürün teslimine hazır hale getirildi.
 
