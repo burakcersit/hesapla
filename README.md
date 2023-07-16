@@ -98,9 +98,9 @@ Yeni takım dinamiklerinin oturmasının ardından taraflar uygulamaya son halin
 
 Proje için önceliklerimizi ve hedeflerimizi belirlemek için bir beyin fırtınası yaptık. Planlama sürecinde aşağıdaki adımları izledik:
 
-1. Yeni projenin gereksinimlerini ve özelliklerini tekrar gözden geçirdik ve uygulamaya eklenecek özellikleri belirledik.
-4. Yeni görevleri ve sorumlulukları dağıttık ve takım üyelerine atadık.
-5. Takım içi iletişimi ve işbirliğini artırmak için düzenli toplantılar ve güncellemeler planladık.
+1. Projenin gereksinimlerini ve özelliklerini tekrar gözden geçirdik ve uygulamaya eklenecek özellikleri belirledik.
+2. Yeni görevleri ve sorumlulukları dağıttık ve takım üyelerine atadık.
+3. Takım içi iletişimi ve işbirliğini artırmak için düzenli toplantılar ve güncellemeler planladık.
 
 
 **Sprint Notları**: Sprint Notları Whatsapp üzerınden alınan kararlar JIRA üzerınden backlog olarak to do lıst e eklenır ve oradan sorumluluklar atanır ve takip edılır.
@@ -113,6 +113,6 @@ Proje için önceliklerimizi ve hedeflerimizi belirlemek için bir beyin fırtı
 **Sprint Review:** Uygulamanın yazı fontları ve renk yelpazesi düzenlendi, ürün videosu çekildi ve düzenlendi, github reposu ve Backlog Board ile ilgili gerekli düzenlemeler gerçeleştirildi. Uygulamanın son düzenlemeleri yapıldı ve ürün teslimine hazır hale getirildi.
 
 **Sprint Retrospective:**
--Takım içinde daha iyi koordinasyonun kurulması için ne yapıldığına ve projenin yönetimine dair olumlu ve olumsuz eleştiriler değerlendirildi.
--Uygulamanın backlog işlemleri ve tanıtımı için gereken parametrelerin son düzenlemeleri yapıldı
--Bu süreçte pay sahibi olan herkese teşekkür edildi ve uygulama yayınlanmaya hazır bir şekilde sisteme yüklendi.
+1. Takım içinde daha iyi koordinasyonun kurulması için ne yapıldığına ve projenin yönetimine dair olumlu ve olumsuz eleştiriler değerlendirildi.
+2. Uygulamanın backlog işlemleri ve tanıtımı için gereken parametrelerin son düzenlemeleri yapıldı
+3. Bu süreçte pay sahibi olan herkese teşekkür edildi ve uygulama yayınlanmaya hazır bir şekilde sisteme yüklendi.
