@@ -109,6 +109,7 @@ Proje için önceliklerimizi ve hedeflerimizi belirlemek için bir beyin fırtı
  
 
 **Backlog düzeni**: JIRA software management applıcation üzerınden görevler belirlenir ve sorumlulara atanır. Takibi ve kontrolü JIRA üzerınden yapılır.
+
 **Daily Scrum**:
 
 ---
