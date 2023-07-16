@@ -6,7 +6,7 @@ Flutter Anka (F*146)
 
 ## Takım Elemanları
 
-Zehra Demırtaş: Scrum Master
+Zehra Demirtaş: Scrum Master
 
 Melike Tunç: Product Owner
 
@@ -111,6 +111,12 @@ Proje için önceliklerimizi ve hedeflerimizi belirlemek için bir beyin fırtı
 **Backlog düzeni**: JIRA software management applıcation üzerınden görevler belirlenir ve sorumlulara atanır. Takibi ve kontrolü JIRA üzerınden yapılır.
 
 **Daily Scrum**:
+
+![Daily Scrum](https://github.com/burakcersit/hesapla/blob/main/web/WhatsApp%20Image%202023-07-17%20at%2000.26.28.jpeg?raw=true)
+![Daily Scrum](https://github.com/burakcersit/hesapla/blob/main/web/WhatsApp%20Image%202023-07-17%20at%2000.26.27.jpeg?raw=true)
+![Daily Scrum](https://github.com/burakcersit/hesapla/blob/main/web/WhatsApp%20Image%202023-07-17%20at%2000.26.28%20(1).jpeg?raw=true)
+![Daily Scrum](https://github.com/burakcersit/hesapla/blob/main/web/WhatsApp%20Image%202023-07-17%20at%2000.26.28%20(2).jpeg?raw=true)
+![Daily Scrum](https://github.com/burakcersit/hesapla/blob/main/web/WhatsApp%20Image%202023-07-17%20at%2000.26.28%20(3).jpeg?raw=true)
 
 ---
 **Sprint Review:** Uygulamanın yazı fontları ve renk yelpazesi düzenlendi, ürün videosu çekildi ve düzenlendi, github reposu ve Backlog Board ile ilgili gerekli düzenlemeler gerçeleştirildi. Uygulamanın son düzenlemeleri yapıldı ve ürün teslimine hazır hale getirildi.
