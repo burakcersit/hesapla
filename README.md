@@ -37,7 +37,7 @@ Bu Uygulana ile, Flutter kullanarak geliştirdiğimiz basit bir hesap makinesi u
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/)
+[Jira Backlog Board](https://burakcersit.atlassian.net/jira/core/projects/HES/board)
 
 # Sprint 2 - Yeniden Planlama
 
@@ -59,7 +59,7 @@ Yeni proje için önceliklerimizi ve hedeflerimizi belirlemek için bir beyin f�
 
 **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
  
-**Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi. 
+**Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 280 puanlık backlog bulunmaktadır. 2 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi. 
 
 **Backlog düzeni**: JIRA software management applıcation üzerınden görevler belirlenir ve sorumlulara atanır. Takibi ve kontrolü JIRA üzerınden yapılır.  
 
@@ -74,7 +74,7 @@ Yeni proje için önceliklerimizi ve hedeflerimizi belirlemek için bir beyin f�
 **Sprint board update**: Sprint board Ulaşım linki: 
 [JIRA](https://burakcersit.atlassian.net/jira/core/projects/HES/board?atlOrigin=eyJpIjoiMGMxYTIyM2Y4NTU1NDNhZGFkY2RjZjYzYjdlMDlkYTkiLCJwIjoiaiJ9)
 
-**Sprint Review:** Ortak bir doğrultu sağlamak için uygulamanın hedefleri belirlendi, uygulama genel tasarımı, uygulamanın kodunun genel yapısı, sayfa geçişleri, splash sayfası ve firebase bağlantısı yapıldı. Proje yönetimi için gerekli araçlar, planlamalar yapıldı, uygulandı ve takip edilce. İlerdeki sprintler için yapılacaklar planlandı.
+**Sprint Review:** Ortak bir doğrultu sağlamak için uygulamanın hedefleri belirlendi, uygulama genel tasarımı, uygulamanın kodunun genel yapısı, sayfa geçişleri, splash sayfası ve firebase bağlantısı yapıldı. Proje yönetimi için gerekli araçlar, planlamalar yapıldı, uygulandı ve takip edilecek. İlerdeki sprintler için yapılacaklar planlandı.
 
 **Sprint Retrospective:**
 -Takım içinde daha iyi koordinasyonun kurulması için iletişimin arttırılması gerektirilmesine karar verildi.
@@ -88,8 +88,31 @@ Yeni proje için önceliklerimizi ve hedeflerimizi belirlemek için bir beyin f�
 ![Daily Scrum](./web/app.jpeg) 
 
 
-# Sprint 3
+# Sprint 3 - Uygulama Dinamikleri & Ürün Oluşturma
+
+## Özet
+
+Yeni takım dinamiklerinin oturmasının ardından taraflar uygulamaya son halini vermek için koordinasyon sağladılar ve uygulamanın ürün videosu, github reposu ve Backlog Board gibi sistemlerin final rötuşları atıldı.
+
+## Planlama Süreci
+
+Proje için önceliklerimizi ve hedeflerimizi belirlemek için bir beyin fırtınası yaptık. Planlama sürecinde aşağıdaki adımları izledik:
+
+1. Yeni projenin gereksinimlerini ve özelliklerini tekrar gözden geçirdik ve uygulamaya eklenecek özellikleri belirledik.
+4. Yeni görevleri ve sorumlulukları dağıttık ve takım üyelerine atadık.
+5. Takım içi iletişimi ve işbirliğini artırmak için düzenli toplantılar ve güncellemeler planladık.
 
 
+**Sprint Notları**: Sprint Notları Whatsapp üzerınden alınan kararlar JIRA üzerınden backlog olarak to do lıst e eklenır ve oradan sorumluluklar atanır ve takip edılır.
+
+**Sprint içinde tamamlanması tahmin edilen puan**: 180 Puan
+ 
+
+**Backlog düzeni**: JIRA software management applıcation üzerınden görevler belirlenir ve sorumlulara atanır. Takibi ve kontrolü JIRA üzerınden yapılır.
 ---
+**Sprint Review:** Uygulamanın yazı fontları ve renk yelpazesi düzenlendi, ürün videosu çekildi ve düzenlendi, github reposu ve Backlog Board ile ilgili gerekli düzenlemeler gerçeleştirildi. Uygulamanın son düzenlemeleri yapıldı ve ürün teslimine hazır hale getirildi.
 
+**Sprint Retrospective:**
+-Takım içinde daha iyi koordinasyonun kurulması için ne yapıldığına ve projenin yönetimine dair olumlu ve olumsuz eleştiriler değerlendirildi.
+-Uygulamanın backlog işlemleri ve tanıtımı için gereken parametrelerin son düzenlemeleri yapıldı
+-Bu süreçte pay sahibi olan herkese teşekkür edildi ve uygulama yayınlanmaya hazır bir şekilde sisteme yüklendi.
